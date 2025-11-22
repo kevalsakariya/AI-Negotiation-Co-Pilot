@@ -1,0 +1,27 @@
+# streamlit
+# google-generativeai
+# python-dotenv
+# PyMuPDF
+# faiss-cpu
+# numpy
+# pickle-mixin
+
+# streamlit
+# PyMuPDF
+# faiss-cpu
+# numpy
+# pickle-mixin
+# sentence-transformers
+# transformers
+# torch
+# accelerate
+# bitsandbytes
+
+streamlit
+ollama
+openai-whisper
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
+pypdf
